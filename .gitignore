@@ -5,4 +5,6 @@ config.toml
 .env
 .kiro/
 CLAUDE.md
+# OpenPaw: track agent personas
+!agents/**/CLAUDE.md
 gateway/target/
